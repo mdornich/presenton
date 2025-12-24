@@ -5,8 +5,8 @@ services:
       context: .
       dockerfile: Dockerfile
     ports:
-      # You can replace 5000 with any other port number of your choice to run Presenton on a different port number.
-      - "5000:80"
+      # Changed from 5000 to 5001 (5000 used by macOS AirPlay)
+      - "5001:80"
     volumes:
       - ./app_data:/app_data
     environment:
