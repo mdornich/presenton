@@ -3,7 +3,6 @@
 
 .env
 .venv
-build
 __pycache__
 .pytest_cache
 .next
