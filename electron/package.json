@@ -59,7 +59,7 @@
   "devDependencies": {
     "cross-env": "^7.0.3",
     "electron": "^36.1.0",
-    "electron-builder": "^26.0.12",
+    "electron-builder": "^26.8.1",
     "typescript": "^5.8.3"
   },
   "peerDependencies": {
